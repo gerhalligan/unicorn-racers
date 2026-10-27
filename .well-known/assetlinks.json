@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ai.mikai.games.unicornracers",
+      "sha256_cert_fingerprints": [
+        "C6:BE:1B:DB:EB:2C:6C:2A:F4:19:F6:EC:96:81:37:A3:8D:28:E2:D1:46:88:1A:5F:8C:9C:B5:90:79:A4:77:90"
+      ]
+    }
+  }
+]
