@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "ai.mikai.games.unicornracers",
       "sha256_cert_fingerprints": [
-        "C6:BE:1B:DB:EB:2C:6C:2A:F4:19:F6:EC:96:81:37:A3:8D:28:E2:D1:46:88:1A:5F:8C:9C:B5:90:79:A4:77:90"
+        "C6:BE:1B:DB:EB:2C:6C:2A:F4:19:F6:EC:96:81:37:A3:8D:28:E2:D1:46:88:1A:5F:8C:9C:B5:90:79:A4:77:90",
+        "F2:F3:30:E7:B2:E7:93:88:FB:F7:DC:9A:AB:9A:E2:1B:99:F8:99:96:21:29:5B:77:CC:2E:9B:57:51:91:88:E1"
       ]
     }
   }
