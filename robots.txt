@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://unicorn-racers.games.mikai.ai/sitemap.xml
